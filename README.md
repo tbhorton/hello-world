@@ -1,3 +1,3 @@
 # hello-world
-NCSU Student
+NCSU Student,
 Welcome to my page, I enjoy long walks on the beach, and Coca-cola.
